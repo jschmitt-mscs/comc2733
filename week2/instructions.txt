@@ -1,0 +1,25 @@
+Create a web page with 3 unordered line items
+
+When you roll over / mouse over each item, an event is triggered
+
+Handle the event by updating some other element in your html
+
+Create 2 variables and 1 constant:
+    a text string
+    a number (less than 10)
+    another number that is a constant (less than 10)
+
+When hovering over the first <li>, update your target element with the text variable
+
+When mousing over the second <li> update your target element with the first number variable
+
+When mousing over the third <li> update the page with the sum of the two number variables (by having Javascript add them together)
+
+Declare and initialize the variables in an external file
+
+Use "inline" Javascript in your <li> elements.
+
+Use Javascript in your script.js file to update your target element when the page initially loads
+
+Zip and submit
+
